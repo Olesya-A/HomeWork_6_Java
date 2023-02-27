@@ -103,7 +103,7 @@ public class Task {
             if (userInput == 0) {
                 break;
             }
-
+            iScanner.close();
         }
     }
 }
